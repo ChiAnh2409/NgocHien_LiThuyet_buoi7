@@ -1,21 +1,5 @@
 # Flutter Animated UI - Login & Registration Page - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/MTgEtUZtPqE)
+![z4572333277943_bc5f0ff3a2726fcb790f2c30d09a9f73](https://github.com/ChiAnh2409/NgocHien_LiThuyet_buoi7/assets/118975118/d83600e4-b914-47e7-9ef0-7e455e772e2f)
 
-# [Complete Code](https://cutt.ly/cWge85W)
-
-**Packages we are using:**
-
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-
-
-Today we will show you how easy it is to build an animated app on flutter. There will be two-page Login and SIgn up page, Our main focus is to show you how to use Implicit Animation on your app.
-
-What are implicit animations?
-As you know the container is a simple widget with well-defined properties like height, width, and color, etc. The AnimatedContainer widget is a simple container widget with animations. These types of widgets can be animated by altering the values of their properties which are the same as the Container widget. This type of animation in Flutter is known as ‘Implicit Animation' or implicitly animated widgets, deriving their name from the ImplicitlyAnimatedWidget class that they implement.
-
-### Flutter Animated UI - Login & Registration Page Final UI
-
-![Preview](/gif.gif)
-
-![App UI](/ui.png)
+![z4572333277821_096d5505b539a5656ca75037ec47ca18](https://github.com/ChiAnh2409/NgocHien_LiThuyet_buoi7/assets/118975118/08e75d79-633c-4ba9-84fc-f1e6706d3765)
